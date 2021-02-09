@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="font-size: 16px;">
+<html style="font-size: 16px;" lang="en-US">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
@@ -12,13 +12,14 @@
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 3.5.3, nicepage.com">
+    <link rel="icon" href="images/favicon.png">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
     
     
     <script type="application/ld+json">{
 		"@context": "http://schema.org",
 		"@type": "Organization",
-		"name": "",
+		"name": "DarxLegends",
 		"url": "index.html",
 		"logo": "images/darxlegends.png",
 		"sameAs": [
@@ -70,7 +71,7 @@
       <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1"><!--post_details--><!--post_details_options_json--><!--{"source":""}--><!--/post_details_options_json--><!--blog_post-->
         <div class="u-container-style u-expanded-width u-post-details u-post-details-1">
           <div class="u-container-layout u-valign-middle u-container-layout-1"><!--blog_post_image-->
-            <img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-1" src="images/2.jpeg"><!--/blog_post_image--><!--blog_post_header-->
+            <img alt="" class="u-blog-control u-expanded-width u-image u-image-default u-image-1" src="images/3.jpeg"><!--/blog_post_image--><!--blog_post_header-->
             <h2 class="u-blog-control u-text u-text-1">
               <a class="u-post-header-link" href="#"><!--blog_post_header_content-->Post 1 Headline<!--/blog_post_header_content--></a>
             </h2><!--/blog_post_header--><!--blog_post_metadata-->

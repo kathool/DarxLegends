@@ -31238,6 +31238,7 @@ a.u-link.u-text-hover-grey-90:hover {
   letter-spacing: 0px;
   background-image: none;
   font-weight: 700;
+  text-transform: none;
 }
 
 .u-header .u-nav-2 {
@@ -31252,10 +31253,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     width: auto;
-  }
-
-  .u-header .u-nav-1 {
-    text-transform: none;
   }
 }
 
