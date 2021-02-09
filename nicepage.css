@@ -31273,8 +31273,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-social-icons-1 {
   height: 48px;
   min-height: 16px;
-  width: 156px;
-  min-width: 60px;
+  width: 102px;
+  min-width: 38px;
   white-space: nowrap;
   animation-duration: 1250ms;
   margin: 36px auto;
@@ -31285,10 +31285,6 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-icon-2 {
-  height: 100%;
-}
-
-.u-footer .u-icon-3 {
   height: 100%;
 }
 
